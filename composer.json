@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/simple-blog.loc",
+  "description": "Blog on Slim framework",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Dmitry Ivanov",
+      "email": "diskdev@gmail.com"
+    }
+  ],
+  "require": {
+    "slim/slim": "4.*",
+    "slim/psr7": "^0.6.0",
+    "twig/twig": "^2.14"
+  }
+}
